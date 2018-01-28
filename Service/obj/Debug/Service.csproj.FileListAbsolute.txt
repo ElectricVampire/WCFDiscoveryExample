@@ -1,0 +1,5 @@
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\WCFDiscovery\Service\bin\Debug\Service.exe
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\WCFDiscovery\Service\bin\Debug\Service.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\WCFDiscovery\Service\obj\Debug\Service.exe
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\WCFDiscovery\Service\obj\Debug\Service.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\WCFDiscovery\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
