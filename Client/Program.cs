@@ -3,7 +3,7 @@ using System.ServiceModel;
 using System.ServiceModel.Discovery;
 using System.ServiceModel.Description;
 
-namespace Microsoft.Samples.Discovery
+namespace SimpleDiscovery
 {
     class Client
     {
