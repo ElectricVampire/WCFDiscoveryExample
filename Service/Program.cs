@@ -5,7 +5,7 @@ using System.ServiceModel;
 using System.ServiceModel.Description;
 using System.ServiceModel.Discovery;
 
-namespace Microsoft.Samples.Discovery
+namespace SimpleDiscovery
 {
     class Program
     {
