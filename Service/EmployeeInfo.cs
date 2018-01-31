@@ -1,7 +1,7 @@
 using System;
 using System.ServiceModel;
 
-namespace Microsoft.Samples.Discovery
+namespace SimpleDiscovery
 {
     // Define a service contract.
     [ServiceContract(Namespace = "http://WCFDiscovery")]
